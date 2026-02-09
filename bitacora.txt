@@ -1,0 +1,31 @@
+OS: El sistemas operativo instalado. (Linux Mint 22.2 de 64 bits)
+
+HOST: El modelo del computador 
+
+Kernel: El nucleo de Linux que maneja el hardware
+
+UPTIME: Tiempo que e sistema lleva encendido
+
+PACKAGE: Cantidad de programas instalados.
+
+SHELL: Interprete de comandos que usas en la pantalla 
+
+RESOLUTION: Resolucion de la pantalla 
+
+DE: Entorno grafico del sistema 
+
+WM: Gestor de ventanas 
+
+WM THEME: Tema visual de las ventanas 
+
+Theme: Tema general del sistema
+
+ICONS: Paquete de iconos del sistema
+
+Terminal: Programa de terminal que estas usando
+
+CPU: Procesador del computador
+
+GPU: Tarjeta grafica 
+
+MEMORY: Memoria RAM usada y total
